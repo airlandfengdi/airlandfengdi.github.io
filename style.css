@@ -1,0 +1,14 @@
+body {
+  background:blue;
+}
+
+/* The "contents" div is the stuff we want positioned in the middle */
+#contents {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* The "navbar" ul is the list of links we have at the very top of the page */
+#navbar {
+  background: orange;
+}
